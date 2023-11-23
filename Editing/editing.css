@@ -1,0 +1,15 @@
+/* Background Color*/
+body{
+    background: gray;
+}
+
+/*Header1*/
+h1 {
+   color: white; 
+}
+
+/*Paragraph*/
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}

@@ -1,0 +1,29 @@
+/* Background Color*/
+body{
+    background: gray;
+}
+
+/*Headers*/
+h1 {
+   color: white; 
+}
+h2 {
+    color: white;
+}
+
+
+
+
+/*For the text*/
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+/*For the Table*/
+style {
+    table {
+    border-style: dashed;
+    border-color: antiquewhite;
+    }
+}
