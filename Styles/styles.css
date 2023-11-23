@@ -1,0 +1,50 @@
+/* Background Color*/
+body{
+    background: gray;
+}
+
+/*This is all the headers*/
+h1 {
+   color: white; 
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color: white;
+}
+
+/*Dot Colors*/
+ul {
+    color: white;
+}
+
+
+
+/*For the text*/
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+/*For the Links*/
+li {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*For the Table*/
+style {
+    table {
+    border-style: dashed;
+    border-color: antiquewhite;
+    }
+}
+
+/*Footer*/
+footer{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
